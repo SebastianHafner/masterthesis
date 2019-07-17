@@ -1,1 +1,4 @@
 git repo for masterthesis
+
+windows prompt command to create virtual environment with anaconda:
+conda create -n masterthesis python=3 jupyter pandas matplotlib geos numpy scikit-learn tensorflow scipy
