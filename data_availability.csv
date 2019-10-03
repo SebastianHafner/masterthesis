@@ -1,0 +1,10 @@
+Data,Start,Finish,Type
+Landsat 8,11/04/2013,31/12/2018,Optical
+Landsat 7,01/01/1999,31/12/2018,Optical
+Landsat 5,01/01/1984,05/05/2012,Optical
+Sentinel-2A,23/06/2015,31/12/2018,Optical
+Sentinel-2B,07/03/2017,31/12/2018,Optical
+Arealstatistik,01/01/2013,31/12/2018,Reference
+Arealstatistik,01/01/1979,31/12/1985,Reference
+Arealstatistik,01/01/1992,31/12/1997,Reference
+Arealstatistik,01/01/2004,31/12/2009,Reference
